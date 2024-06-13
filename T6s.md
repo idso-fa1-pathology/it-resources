@@ -1,4 +1,4 @@
-- T6 Information
+# T6 Information
   
 | Hostname          | IP Address    | Location     |
 | :---------------- | :------------ | :----------- |
