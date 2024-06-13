@@ -1,4 +1,4 @@
 ## IT Resources Summarization
-- K8S
-- T6s
+- [T6s](T6s.md)
+- K8S-Cluster
 - Polyscope
