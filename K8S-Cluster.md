@@ -3,6 +3,7 @@
 ### Links
 - [JupyterHub](http://hpcexhaproxy.mdanderson.edu/jupyter/hub/login?)
 - [HPC-Harbor](https://hpcharbor.mdanderson.edu/account/sign-in)
+- [k8s-cluster-env](https://github.com/idso-fa1-pathology/k8s-cluster-env)
   
 ### GPU Nodes
 - 1-17 A100
@@ -10,3 +11,6 @@
 
 ### FAQ
 - [K8S Q&A](https://github.mdanderson.org/EDI-Research-Kubernetes/Kubernetes_QA)
+
+### Tutorials
+- [docker-k8s-workshop](https://github.com/idso-fa1-pathology/docker-k8s-workshop)
