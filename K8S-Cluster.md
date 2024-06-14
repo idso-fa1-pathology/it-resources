@@ -1,5 +1,8 @@
 # Kubernetes (K8S) Cluster
 
+- K8S Team Contact Email - EDI-Kubernetes-Admin@mdanderson.org
+- EDI-Research-Kubernetes Github - [https://github.mdanderson.org/EDI-Research-Kubernetes](https://github.mdanderson.org/EDI-Research-Kubernetes)
+
 ### Links
 - [JupyterHub](http://hpcexhaproxy.mdanderson.edu/jupyter/hub/login?)
 - [HPC-Harbor](https://hpcharbor.mdanderson.edu/account/sign-in)
