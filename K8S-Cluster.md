@@ -14,3 +14,4 @@
 
 ### Tutorials
 - [docker-k8s-workshop](https://github.com/idso-fa1-pathology/docker-k8s-workshop)
+- [VSCode_JupyterHub](https://github.mdanderson.org/EDI-Research-Kubernetes/VSCode_JupyterHub/blob/main/README.md)
