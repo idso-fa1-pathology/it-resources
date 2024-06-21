@@ -1,6 +1,6 @@
 # Polyscope 
 
-Issues contact Yasin (yshokrollahi@mdanderson.org) or Ping (pchen6@mdanderson.org)
+Issues contact Yasin (yshokrollahi@mdanderson.org) or Harry (zliu18@mdanderson.org)
 
 ## Versions
 - http://polyscope.mdanderson.org (Visualization/Annotations/Polyzoomer Generation | Newest Stable Version)
