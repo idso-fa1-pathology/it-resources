@@ -1,5 +1,6 @@
 # Storage Information
-Write an email to Reggie (Reginald L. Maxwell) rlmaxwell@mdanderson.org if any issues
+
+- Issues contact Reggie (rlmaxwell@mdanderson.org)
 
 | Name                | Path                                  | Capacity     | Available  |
 | :-------------------| :------------------------------------ | :----------- | :----------|
