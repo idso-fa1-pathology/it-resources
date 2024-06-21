@@ -1,5 +1,7 @@
 # Polyscope 
 
+Issues contact Yasin (yshokrollahi@mdanderson.org) or Ping (pchen6@mdanderson.org)
+
 ## Versions
 - http://polyscope.mdanderson.org (Visualization/Annotations/Polyzoomer Generation | Newest Stable Version)
 - http://rapuplabgpu03 (Polyzoomer Generation | A Prior Stable Version) 
