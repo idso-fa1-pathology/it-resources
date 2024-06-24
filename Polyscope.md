@@ -12,5 +12,6 @@ Issues contact Yasin (yshokrollahi@mdanderson.org) or Harry (zliu18@mdanderson.o
 - User auditing implementation (approved)
 - System account creation for active directory access (completed)
 - MDA user authentication implementation via LDAP server(completed)
-- disaster recovery plan & tabletop plan (todo)
+- disaster recovery plan & tabletop plan (completed)
 - F5 Big-IP (or OneAccess) for outside MDA access (todo)
+- http to https
