@@ -1,6 +1,6 @@
 # Kubernetes (K8S) Cluster
 
-- K8S Team Contact Email - EDI-Kubernetes-Admin@mdanderson.org
+- Issues contact K8S Team (EDI-Kubernetes-Admin@mdanderson.org)
 - EDI-Research-Kubernetes Github - [https://github.mdanderson.org/EDI-Research-Kubernetes](https://github.mdanderson.org/EDI-Research-Kubernetes)
 
 ### Links
