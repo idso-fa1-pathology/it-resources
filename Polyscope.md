@@ -9,7 +9,7 @@ Issues contact Yasin (yshokrollahi@mdanderson.org) or Harry (zliu18@mdanderson.o
 
 ## GRC 
 - User auditing implementation (approved)
-- System account creation for active directory access (approved)
-- MDA user authentication implementation via LDAP server(ongoing)
+- System account creation for active directory access (completed)
+- MDA user authentication implementation via LDAP server(completed)
 - disaster recovery plan & sustainable plan (todo)
-- F5 Big-IP for outside MDA access (todo)
+- F5 Big-IP (or OneAccess) for outside MDA access (todo)
