@@ -5,8 +5,7 @@ Issues contact Yasin (yshokrollahi@mdanderson.org) or Harry (zliu18@mdanderson.o
 ## Versions
 - http://polyscope.mdanderson.org (Visualization/Annotations/Polyzoomer Generation | Newest Stable Version)
 - http://rapuplabgpu03 (Polyzoomer Generation | A Prior Stable Version) 
-- http://r3puptmpg02 (Test Polyscope Development)
-<!--- - http://rapuplabgpu04 (Test Polyscope Development) ---> 
+- http://rapuplabgpu04 (Test Polyscope Development)
 
 ## GRC 
 - User auditing implementation (approved)
