@@ -15,7 +15,7 @@ Issues contact Yasin (yshokrollahi@mdanderson.org) or Harry (zliu18@mdanderson.o
 
 ## Outside MDA Access
 - F5 Big-IP (or OneAccess) (todo)
-- http to https
+- http to https (todo)
 
 ## New Features
 - AI model integration (todo)
