@@ -18,5 +18,6 @@ Issues contact Yasin (yshokrollahi@mdanderson.org) or Harry (zliu18@mdanderson.o
 - http to https (todo)
 
 ## New Features
+- Detailed usage documentation (todo)
 - AI model integration (todo)
 - User navigation tracking (todo)
