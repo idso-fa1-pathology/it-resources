@@ -7,10 +7,16 @@ Issues contact Yasin (yshokrollahi@mdanderson.org) or Harry (zliu18@mdanderson.o
 - http://rapuplabgpu03 (Polyzoomer Generation | A Prior Stable Version) 
 - http://rapuplabgpu04 (Test Polyscope Development)
 
-## GRC 
+## GRC (Approved)
 - User auditing implementation (approved)
 - System account creation for active directory access (completed)
 - MDA user authentication implementation via LDAP server(completed)
 - disaster recovery plan & tabletop plan (completed)
-- F5 Big-IP (or OneAccess) for outside MDA access (todo)
+
+## Outside MDA Access
+- F5 Big-IP (or OneAccess) (todo)
 - http to https
+
+## New Features
+- AI model integration (todo)
+- User navigation tracking (todo)
