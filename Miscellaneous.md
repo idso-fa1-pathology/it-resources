@@ -6,4 +6,4 @@
 - [MDA-GRC-Portal](https://grc.mdanderson.edu/apps/ArcherApp/Home.aspx)
 - [IFP-Jira](https://jira.mdanderson.edu/)
 - [IFP-Confluence](https://wiki.mdanderson.edu/display/ID/IDSO-FA1-Pathology)
-  
+- [High Performance Computing for research](https://hpcweb.mdanderson.edu/)
