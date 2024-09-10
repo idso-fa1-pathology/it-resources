@@ -2,6 +2,7 @@
 
 - Issues contact Ping (pchen6@mdanderson.org)
 - IT contacts: Premus (pvabraham1@mdanderson.org) and Rashad (rwashington1@mdanderson.org)
+- Location: ACB3.2370 - R&D Compute Access Center (RDCAC)
   
 | Hostname          | IP Address    | Location            | Designation      | Usage                           |
 | :---------------- | :------------ | :------------------ | :--------------- | :------------------------------ |
