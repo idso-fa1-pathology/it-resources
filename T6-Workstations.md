@@ -7,7 +7,7 @@
 | Hostname          | IP Address    | Location            | Designation      | Usage                           |
 | :---------------- | :------------ | :------------------ | :--------------- | :------------------------------ |
 | rapuplabgpu03     | 10.69.66.16   | RDCAC (ACB3.2370)   | RDCAC03          | DL Modeling, App Deployment     |
-| rapuplabgpu04     | 10.69.66.18   | RDCAC (ACB3.2370)   | RDCAC04          | DL Modeling, App Dev/Test,      |
+| rapuplabgpu04     | 10.69.66.18   | RDCAC (ACB3.2370)   | RDCAC04          | DL Modeling, App Development    |
 | rapuplabgpu13     | 10.69.66.36   | RDCAC (ACB3.2370)   | RDCAC13          | Bioinformatics                  |
 | rapuplabgpu14     | 10.69.66.38   | RDCAC (ACB3.2370)   | RDCAC14          | DL Modeling                     |
 | rapuplabgpu06     | 10.135.3.242  | TMC   (TMC3.****)   | TMC06            | Bioinformatics                  |
