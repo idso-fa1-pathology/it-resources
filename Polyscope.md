@@ -1,6 +1,6 @@
 # Polyscope 
 
-Issues contact Yasin (yshokrollahi@mdanderson.org) or Harry (zliu18@mdanderson.org)
+Issues contact Yasin (yshokrollahi@mdanderson.org)
 
 
 ## Versions
