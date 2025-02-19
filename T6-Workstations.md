@@ -12,3 +12,5 @@
 | rapuplabgpu14     | 10.69.66.38   | RDCAC (ACB3.2370)   | T6-14            | DL Modeling                     |
 | rapuplabgpu06     | 10.135.3.242  | TMC   (TMC3.2302)   | T6-06            | Bioinformatics                  |
 | rapuplabgpu07     | 10.135.3.244  | TMC   (TMC3.2302)   | T6-07            | DL Modeling                     |
+| rapuplabgpu09     | 10.69.66.28   | RDCAC (ACB3.2370)   | T6-09            | CLIA Team                       |
+| rapuplabgpu17     | 10.69.66.44   | RDCAC (ACB3.2370)   | T6-17            | CLIA Team                       |
