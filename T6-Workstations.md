@@ -1,8 +1,9 @@
 # T6 Workstations Information
 
 - Issues contact Ping (pchen6@mdanderson.org)
-- IT contacts: Rashad (rwashington1@mdanderson.org) and Premus (pvabraham1@mdanderson.org) 
+- IT contacts: Rashad (rwashington1@mdanderson.org) and Premus (pvabraham1@mdanderson.org)
 - R&D Compute Access Center (RDCAC): Ping/Xiaoxi/Yasin badge access
+- T6 configuration: 2 x NVIDAIA GeForce RTX 4090 (24 GB Memory) + 32 CPU cores + 256 GB RAM
   
 | Hostname          | IP Address    | Location            | Designation      | Usage                           |
 | :---------------- | :------------ | :------------------ | :--------------- | :------------------------------ |
