@@ -4,6 +4,7 @@
 - T6 configuration: 2 x NVIDAIA GeForce RTX 4090 (24 GB Memory) + 32 CPU cores + 256 GB RAM
 - IT contacts: Rashad (rwashington1@mdanderson.org) and Premus (pvabraham1@mdanderson.org)
 - R&D Compute Access Center (RDCAC): Ping/Xiaoxi/Yasin MDA badge access
+- iLO Power Reset: https://[hostname]ilo.mdanderson.edu login credential (ihavethepower.idso)
   
 | Hostname          | IP Address    | Location            | Designation      | Usage                           |
 | :---------------- | :------------ | :------------------ | :--------------- | :------------------------------ |
