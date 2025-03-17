@@ -4,9 +4,6 @@ Issues contact Yasin (yshokrollahi@mdanderson.org)
 
 
 ## Versions
-- https://polyscope.mdanderson.org
+- https://polyscope.mdanderson.org (data on /rsrch9)
+- http://rapuplabgpu04 (data on /rsrch6)
 - http://rapuplabgpu03 (Backup)
-
-
-## New Features
-- AI model integration
