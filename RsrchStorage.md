@@ -1,6 +1,7 @@
 # Storage Information
 
-- Issues contact Reggie (rlmaxwell@mdanderson.org)
+- Issues contact Ping (pchen6@mdanderson.org)
+- IT contact: Reggie (rlmaxwell@mdanderson.org)
 
 | Name                | Path                                  |   PersistentVolumeClaim (PVC)  | Capacity     | Available  |
 | :-------------------| :------------------------------------ | :----------------------------- | :----------- | :----------|
