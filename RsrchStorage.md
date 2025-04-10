@@ -4,7 +4,7 @@
 - IT contact: Reggie (rlmaxwell@mdanderson.org)
 - [Data Management Plan](./docs/IDSO-FA1-Pathology-DMP-Latest.pdf)
 
-| Name                | Path                                  |   PersistentVolumeClaim (PVC)  | Capacity     | Available  |
+| Name                | Path                                  |   persistentVolumeClaim (PVC)  | Capacity     | Available  |
 | :-------------------| :------------------------------------ | :----------------------------- | :----------- | :----------|
 | idso_fa1_pathology  | /rsrch9/home/plm/idso_fa1_pathology   | [username]-gpu-rsrch9-home-plm | 380 TB       | 100 TB     |
 | yuan_lab            | /rsrch6/home/trans_mol_path/yuan_lab  | [username]-gpu-lab             | 203 TB       | 39 TB      |
