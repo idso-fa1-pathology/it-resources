@@ -2,6 +2,7 @@
 
 - Issues contact Ping (pchen6@mdanderson.org)
 - IT contact: Reggie (rlmaxwell@mdanderson.org)
+- [Data Management Plan](./docs/IDSO-FA1-Pathology-DMP-Latest.pdf)
 
 | Name                | Path                                  |   PersistentVolumeClaim (PVC)  | Capacity     | Available  |
 | :-------------------| :------------------------------------ | :----------------------------- | :----------- | :----------|
