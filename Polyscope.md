@@ -1,6 +1,6 @@
 # Polyscope 
 
-Issues contact Yasin (yshokrollahi@mdanderson.org)
+- Issues contact Yasin (yshokrollahi@mdanderson.org)
 - [Standard Operating Procedure](./docs/Polyscope-SOP-v1.0.0.pdf)
 
 ## Versions
