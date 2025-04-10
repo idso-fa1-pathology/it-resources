@@ -1,6 +1,6 @@
 # Kubernetes (K8S) Cluster
 
-#### ~Issues contact K8S Team (EDI-Kubernetes-Admin@mdanderson.org)
+- Issues contact K8S Team (EDI-Kubernetes-Admin@mdanderson.org)
 
 ### Links
 - [JupyterHub](http://hpcexhaproxy.mdanderson.edu/jupyter/hub/login?)
