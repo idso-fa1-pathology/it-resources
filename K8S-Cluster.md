@@ -5,7 +5,7 @@
 ### Links
 - [JupyterHub](http://hpcexhaproxy.mdanderson.edu/jupyter/hub/login?)
 - [HPC-Harbor](https://hpcharbor.mdanderson.edu/account/sign-in)
-- [HPC-Nodes] (https://hpcexhaproxy.mdanderson.edu/kubernetes/nodes/)
+- [HPC-Nodes](https://hpcexhaproxy.mdanderson.edu/kubernetes/nodes/)
 - [EDI-Research-Kubernetes Github](https://github.mdanderson.org/EDI-Research-Kubernetes)
 - [k8s-cluster-env](https://github.com/idso-fa1-pathology/k8s-cluster-env)
 - [docker-k8s-workshop](https://github.com/idso-fa1-pathology/docker-k8s-workshop)
