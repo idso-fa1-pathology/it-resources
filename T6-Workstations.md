@@ -10,8 +10,10 @@
 | :---------------- | :------------ | :------------------ | :--------------- | :------------------------------ |
 | rapuplabgpu03     | 10.69.66.16   | RDCAC (ACB3.2370)   | T6-03            | DL Modeling, App Deployment     |
 | rapuplabgpu04     | 10.69.66.18   | RDCAC (ACB3.2370)   | T6-04            | DL Modeling, Bioinformatics     |
+| rapuplabgpu12     | 10.69.66.34   | RDCAC (ACB3.2370)   | T6-12            | Bioinformatics, DL Modeling     |
 | rapuplabgpu13     | 10.69.66.36   | RDCAC (ACB3.2370)   | T6-13            | Bioinformatics, DL Modeling     |
 | rapuplabgpu14     | 10.69.66.38   | RDCAC (ACB3.2370)   | T6-14            | DL Modeling, App Development    |
+| rapuplabgpu15     | 10.69.66.40   | RDCAC (ACB3.2370)   | T6-15            | DL Modeling, App Development    |
 | rapuplabgpu06     | 10.135.3.242  | TMC   (TMC3.2302)   | T6-06            | Bioinformatics                  |
 | rapuplabgpu07     | 10.135.3.244  | TMC   (TMC3.2302)   | T6-07            | DL Modeling                     |
 | rapuplabgpu09     | 10.69.66.28   | RDCAC (ACB3.2370)   | T6-09            | CLIA Team                       |
