@@ -3,7 +3,7 @@
 - Issues contact K8S Team (EDI-Kubernetes-Admin@mdanderson.org)
 
 ### Links
-- [User Dashboard] (https://hpcexhaproxy.mdanderson.edu/kubernetes/users/)
+- [User-Dashboard](https://hpcexhaproxy.mdanderson.edu/kubernetes/users/)
 - [JupyterHub](http://hpcexhaproxy.mdanderson.edu/jupyter/hub/login?)
 - [HPC-Harbor](https://hpcharbor.mdanderson.edu/account/sign-in)
 - [HPC-Nodes](https://hpcexhaproxy.mdanderson.edu/kubernetes/nodes/)
