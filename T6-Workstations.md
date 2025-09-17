@@ -11,7 +11,7 @@
 | rapuplabgpu04     | 10.69.66.18   | ACB3.2370   | T6-04            | Drive-570.* CUDA:12.8| DL Modeling, Bioinformatics       | Simon has RStudio server deployed                   |
 | rapuplabgpu12     | 10.69.66.34   | ACB3.2370   | T6-12            | Drive-570.* CUDA:12.8| Bioinformatics, DL Modeling       | Paul uses for ST analsyis                           |        
 | rapuplabgpu13     | 10.69.66.36   | ACB3.2370   | T6-13            | Drive-570.* CUDA:12.8| Bioinformatics, DL Modeling       | Alex uses for bioinformatics pipepline              |
-| rapuplabgpu14     | 10.69.66.38   | ACB3.2370   | T6-14            | Drive-570.* CUDA:12.8| DL Modeling, Bioinformatics       | Xiaoxi uses for DL modeling                         |
+| rapuplabgpu14     | 10.69.66.38   | ACB3.2370   | T6-14            | Drive-570.* CUDA:12.8| DL Modeling, Bioinformatics       | Xiaoxi uses for DL modeling (rsrch9 not mounted yet)|
 | rapuplabgpu15     | 10.69.66.40   | ACB3.2370   | T6-15            | Drive-570.* CUDA:12.8| DL Modeling, App Development      | Yasin experiement Polyscope AI deployment           |
 | rapuplabgpu09     | 10.69.66.28   | ACB3.2370   | T6-09            | Drive-535.* CUDA:12.2| CLIA Team                         | AI-sTIL web app deployment                          |
 | rapuplabgpu17     | 10.69.66.44   | ACB3.2370   | T6-17            | Drive-550.* CUDA:12.4| CLIA Team                         | CLIA Team use only                                  |
