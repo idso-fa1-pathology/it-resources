@@ -5,7 +5,7 @@
 - IT contacts: Rashad (rwashington1@mdanderson.org) and Premus (pvabraham1@mdanderson.org)
 - iLO Power Reset: https://[hostname]ilo.mdanderson.edu login credential (ihavethepower.idso)
   
-| Hostname          | IP Address    | Location    | Designation      | Nvidia Drive/CUDA    | Usage                             | Notes                                               |
+| Hostname          | IP Address    | Location    | Designation      | Nvidia Driver/CUDA   | Usage                             | Notes                                               |
 | :---------------- | :------------ | :---------- | :--------------- | :------------------- |:--------------------------------- | :-------------------------------------------------- |
 | rapuplabgpu03     | 10.69.66.16   | ACB3.2370   | T6-03            | Drive-570.* CUDA:12.8| DL Modeling                       | Feel free                                           |
 | rapuplabgpu04     | 10.69.66.18   | ACB3.2370   | T6-04            | Drive-570.* CUDA:12.8| DL Modeling, Bioinformatics       | Simon has RStudio server deployed                   |
