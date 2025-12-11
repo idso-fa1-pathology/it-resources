@@ -6,6 +6,6 @@
 
 | Name                | Path                                  |   persistentVolumeClaim (PVC)  | Capacity     | Available     |
 | :-------------------| :------------------------------------ | :----------------------------- | :----------- | :-------------|
-| idso_fa1_pathology  | /rsrch9/home/plm/idso_fa1_pathology   | [username]-gpu-rsrch9-home-plm | 380 TB       |   89.4 TB     |
-| yuan_lab            | /rsrch6/home/trans_mol_path/yuan_lab  | [username]-gpu-lab             | 203 TB       |   66.3 TB     |
-| polyscope           | /rsrch9/home/plm/polyscope            |                                |  16 TB       |   10.6 TB     |
+| idso_fa1_pathology  | /rsrch9/home/plm/idso_fa1_pathology   | [username]-gpu-rsrch9-home-plm | 380 TB       |   88.3 TB     |
+| yuan_lab            | /rsrch6/home/trans_mol_path/yuan_lab  | [username]-gpu-lab             | 203 TB       |   65.2 TB     |
+| polyscope           | /rsrch9/home/plm/polyscope            |                                |  16 TB       |   10.5 TB     |
