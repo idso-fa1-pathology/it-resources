@@ -1,7 +1,7 @@
 # Storage Information
 
 - Issues contact Ping (pchen6@mdanderson.org)
-- IT contact: Reggie (rlmaxwell@mdanderson.org)
+- IT contact: Reggie (rlmaxwell@mdanderson.org), Jonathan (jfosburg@mdanderson.org), and Gene (GKGeorge@mdanderson.org)
 - [Data Management Plan](./docs/IDSO-FA1-Pathology-DMP-Latest.pdf)
 
 | Name                | Path                                  |   persistentVolumeClaim (PVC)  | Capacity     | Available     |
