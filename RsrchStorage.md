@@ -6,6 +6,16 @@
 
 | Name                | Path                                  |   persistentVolumeClaim (PVC)  | Capacity     | Available     |
 | :-------------------| :------------------------------------ | :----------------------------- | :----------- | :-------------|
-| idso_fa1_pathology  | /rsrch9/home/plm/idso_fa1_pathology   | [username]-gpu-rsrch9-home-plm | 441 TB       |  118.1 TB     |
+| idso_fa1_pathology  | /rsrch9/home/plm/idso_fa1_pathology   | [username]-gpu-rsrch9-home-plm | 441 TB       |  116.6 TB     |
 | yuan_lab            | /rsrch6/home/trans_mol_path/yuan_lab  | [username]-gpu-lab             | 203 TB       |   61.1 TB     |
 | polyscope           | /rsrch9/home/plm/polyscope            |                                |  16 TB       |    9.3 TB     |
+
+
+## Windows/Mac Access
+#### Personal research drive
+- Windows: \\\\mc1vast01-pub\rsrch5\home\plm\\[username]
+- Mac: smb://mc1vast01-pub/rsrch5/home/plm/[username]
+  
+#### Program resrach drive
+- Windows: \\\\mc1vast01-pub\rsrch9\home\plm\idso_fa1_pathology
+- Mac: smb://mc1vast01-pub/rsrch9/home/plm/idso_fa1_pathology 
