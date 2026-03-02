@@ -2,7 +2,7 @@
 
 - Issues contact Ping (pchen6@mdanderson.org)
 - T6 configuration: 2 x Nvidia GeForce RTX 4090 (24 GB Memory) + 32 CPU cores + 256 GB RAM + 11 TB SSD
-- IT contacts: Rashad (rwashington1@mdanderson.org) and Premus (pvabraham1@mdanderson.org)
+- IT contacts: Rashad (rwashington1@mdanderson.org), Premus (pvabraham1@mdanderson.org) and Jose (JEMacedo@mdanderson.org)
 - iLO Power Reset: https://[hostname]ilo.mdanderson.edu login credential (ihavethepower.idso)
   
 | Hostname          | IP Address    | Location    | Designation      | Nvidia Driver/CUDA   | Usage                             | Notes                                               |
