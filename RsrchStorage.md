@@ -16,6 +16,6 @@
 - Windows: \\\\mc1vast01-pub\rsrch5\home\plm\\[username]
 - Mac: smb://mc1vast01-pub/rsrch5/home/plm/[username]
   
-#### Program resrach drive
+#### Program research drive
 - Windows: \\\\mc1vast01-pub\rsrch9\home\plm\idso_fa1_pathology
 - Mac: smb://mc1vast01-pub/rsrch9/home/plm/idso_fa1_pathology 
